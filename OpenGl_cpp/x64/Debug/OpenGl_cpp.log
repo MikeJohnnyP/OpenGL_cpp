@@ -1,4 +1,0 @@
-﻿  main.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function main
-D:\OpenGl_cpp\x64\Debug\OpenGl_cpp.exe : fatal error LNK1120: 1 unresolved externals
